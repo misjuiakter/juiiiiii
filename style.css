@@ -1,0 +1,9 @@
+.block2{
+    background-color: aqua;
+    text-align: center;
+    border-bottom: 3px solid red;
+    display: block;
+}
+.topic{
+    text-align: center;
+}
